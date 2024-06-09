@@ -1,8 +1,8 @@
 # Hypertext Theme
 
-[Hypertext](http://hypertext.artofthesmart.com) is a theme for [Grav CMS](https://getgrav.org/) that prioritizes speed and simplicity.  It does not require (nor does it include) any Javascript and it keeps styles to a bare minimum.  This ensures a fast, consistent user experience across browsers and devices.
+[Hypertext](https://hypertext.artofthesmart.com) is a theme for [Grav CMS](https://getgrav.org/) that prioritizes speed and simplicity.  It does not require (nor does it include) any Javascript and it keeps styles to a bare minimum.  This ensures a fast, consistent user experience across browsers and devices.
 
-[You can see it live here](http://hypertext.artofthesmart.com).
+[You can see it live here](https://hypertext.artofthesmart.com).
 
 ![The Hypertext theme keeps things minimal.](assets/screenshot.png)
 
@@ -30,12 +30,12 @@
 
 Here are some links to get you started:
 *  Read the installation guide below to download and install the theme.
-*  [Visit the Hypertext home page](http://hypertext.artofthesmart.com) to learn more about the philosophy behind the project.
-*  [Read the reference guide for caveats and gotchas](http://hypertext.artofthesmart.com/reference) to avoid common mistakes with Hypertext.
+*  [Visit the Hypertext home page](https://hypertext.artofthesmart.com) to learn more about the philosophy behind the project.
+*  [Read the reference guide for caveats and gotchas](https://hypertext.artofthesmart.com/reference) to avoid common mistakes with Hypertext.
 *  [Read the FAQ](http://hypertext.artofthesmart.com/FAQ) or [visit the issues page in Github](https://github.com/artofthesmart/hypertext/issues) if you run into problems.
 *  [Contribute to Hypertext via Github](https://github.com/artofthesmart/hypertext) and help make the web faster!
 
-> **Special thanks** go out to [Ricardo](https://urbansquid.london), the theme champion in the Grav Discord server, [Andy Miller](https://twitter.com/rhuk) creator of Grav CMS, and my wife who's sick of hearing about this project by now.
+> **Special thanks** go out to [Ricardo](https://urbansquid.london), the theme champion in the Grav Discord server, [Andy Miller](https://x.com/rhuk) creator of Grav CMS, and my wife who's sick of hearing about this project by now.
 
 ---
 
@@ -45,7 +45,7 @@ Installing the theme can be done in one of two ways. Grav's GPM (Grav Package Ma
 
 ### GPM Installation (Preferred)
 
-The simplest way to install this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
+The simplest way to install this theme is via the [Grav Package Manager (GPM)](https://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
 
     bin/gpm install hypertext
 
@@ -67,7 +67,7 @@ As development for the Hypertext theme continues, new versions may become availa
 
 ### GPM Update (Preferred)
 
-The simplest way to update this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm). You can do this with this by navigating to the root directory of your Grav install using your system's Terminal (also called command line) and typing the following:
+The simplest way to update this theme is via the [Grav Package Manager (GPM)](https://learn.getgrav.org/advanced/grav-gpm). You can do this with this by navigating to the root directory of your Grav install using your system's Terminal (also called command line) and typing the following:
 
     bin/gpm update hypertext
 
@@ -78,7 +78,7 @@ This command will check your Grav install to see if your Hypertext theme is due 
 Manually updating Hypertext is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/themes/hypertext` directory.
-* Downalod the new version of the Hypertext theme from either [GitHub](https://github.com/getgrav/hypertext) or [GetGrav.org](http://getgrav.org/downloads/themes#extras).
+* Downalod the new version of the Hypertext theme from either [GitHub](https://github.com/getgrav/hypertext) or [GetGrav.org](https://getgrav.org/downloads/themes#extras).
 * Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `hypertext`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
